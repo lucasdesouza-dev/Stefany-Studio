@@ -1,0 +1,29 @@
+.container {
+}
+
+.procedimento {
+  height: 70vmin;
+  background-image: linear-gradient(
+      rgb(255, 255, 255),
+      rgba(211, 211, 211, 0.7)
+    ),
+    url("../img/procedimento.jpg");
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-principal {
+  font-size: 5vmin;
+  margin-top: 35vmin;
+  color: #fff;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 1em #000;
+}
