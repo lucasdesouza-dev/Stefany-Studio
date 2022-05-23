@@ -1,0 +1,17 @@
+.perfil {
+  display: flex;
+  margin: 1em;
+}
+.img-perfil {
+  height: 100vmin;
+}
+.sobre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px gold;
+}
+.sobre p {
+  margin: 1em;
+}
