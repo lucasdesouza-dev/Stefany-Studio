@@ -8,8 +8,8 @@ const Home = () => {
           Toda mulher precisa da paz que uma SOBRANCELHA bem-feita traz!
         </h1>
       </div>
-      <div className="card">
-        <h1 className="text-card">Desingner</h1>
+      <div className="cardHome">
+        <h1 className="textCard">Designer</h1>
       </div>
     </div>
   );

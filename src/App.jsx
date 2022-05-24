@@ -1,9 +1,11 @@
 import { useState } from "react";
-
 import "./App.css";
+
+import NavBar from "./layout/NavBar";
 import Home from "./components/Home.";
 import Sobre from "./components/Sobre";
-import NavBar from "./layout/NavBar";
+
+import Especialidades from "./components/Especialidades";
 
 function App() {
   const [] = useState(0);
@@ -13,6 +15,7 @@ function App() {
       <NavBar />
       <Home />
       <Sobre />
+      <Especialidades />
     </div>
   );
 }

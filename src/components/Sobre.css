@@ -11,7 +11,9 @@
   justify-content: center;
   align-items: center;
   border: solid 1px gold;
+  margin-left: 1em;
 }
 .sobre p {
   margin: 1em;
+  text-indent: 3em;
 }
