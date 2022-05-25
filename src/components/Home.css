@@ -3,11 +3,11 @@
 
 .procedimento {
   height: 70vmin;
-  background-image: linear-gradient(
+  background-image:
+  /* linear-gradient(
       rgb(255, 255, 255),
       rgba(211, 211, 211, 0.7)
-    ),
-    url("../img/procedimento.jpg");
+    ), */ url("../img/baner.jpeg");
   background-blend-mode: darken;
   background-repeat: no-repeat;
   background-size: cover;

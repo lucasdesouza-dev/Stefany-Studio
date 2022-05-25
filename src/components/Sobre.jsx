@@ -1,12 +1,12 @@
 import "./Sobre.css";
-import imgPerfil from "../img/imagemPerfil.jpg";
+import imgPerfil from "../img/imagemPerfil.jpeg";
 
 const Sobre = () => {
   return (
     <div className="perfil">
       <img className="img-perfil" src={imgPerfil} alt="imagem de perfil" />
       <div className="sobre">
-        <h1 className="name">Stefany Resende </h1>
+        <h1 className="name">𝐒𝐓𝐄𝐅𝐀𝐍𝐘 𝐑𝐄𝐒𝐄𝐍𝐃𝐄 </h1>
         <p>
           Quando criança, Natália Wermelinger já dava sinais que seu futuro
           estaria na beleza. Gostava de produzir amigas para irem à bailes

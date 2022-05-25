@@ -4,6 +4,7 @@ import "./App.css";
 import NavBar from "./layout/NavBar";
 import Home from "./components/Home.";
 import Sobre from "./components/Sobre";
+import Agendamento from "./components/Agendamento";
 
 import Especialidades from "./components/Especialidades";
 
@@ -15,6 +16,7 @@ function App() {
       <NavBar />
       <Home />
       <Sobre />
+      {/* <Agendamento /> */}
       <Especialidades />
     </div>
   );
