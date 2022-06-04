@@ -33,19 +33,19 @@ const navbar = () => {
         <div className={`menu ${toggle ? "mostrar" : ""}`}>
           <ul className="list">
             <li>
-              <a href="#home">Home</a>
+              <a href="#section-1">Home</a>
             </li>
             <li>
-              <a href="#">Serviços</a>
+              <a href="#section-2">Quem Sou</a>
             </li>
             <li>
-              <a href="#">Quem Sou</a>
+              <a href="#section-3">Especialidades</a>
             </li>
             <li>
-              <a href="#">Portfólio</a>
+              <a href="#section-4">Portfólio</a>
             </li>
-            <li>
-              <a href="#">Contato</a>
+            <li className="link-agendamento">
+              <a href="https://wa.me/5534992340962">Agende seu Horario</a>
             </li>
           </ul>
         </div>

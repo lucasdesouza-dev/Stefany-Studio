@@ -1,0 +1,38 @@
+.container-footer {
+  background-color: #000;
+  color: #fff;
+
+  width: 100%;
+  min-height: 30vh;
+}
+.logo-footer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.redes-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.redes {
+  display: flex;
+  list-style-type: none;
+}
+.redes a {
+  color: #fff;
+  cursor: pointer;
+}
+.redes li {
+  padding: 1em;
+  font-size: 1.5em;
+}
+
+.copy-footer {
+  display: flex;
+  justify-content: space-around;
+}
+.copy-footer p a {
+  text-decoration: none;
+  color: #fff;
+}
