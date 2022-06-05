@@ -14,7 +14,7 @@ function App() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("./src/DB/portifolio.json", {
+    fetch("http://localhost:3000/Stefany-Studio/portifolio.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",

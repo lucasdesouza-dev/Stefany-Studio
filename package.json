@@ -1,6 +1,7 @@
 {
   "name": "stefany-studio",
   "private": true,
+  "homepage": "https://lucashenriquesouza.github.io/Stefany-Studio/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

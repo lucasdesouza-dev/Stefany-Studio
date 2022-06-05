@@ -15,8 +15,9 @@ const navbar = () => {
     <div className="container">
       <nav className="navbar">
         <div className="logo-toggle">
-          {/* <img src={logo} className="App-logo" alt="logo" /> */}
-
+          <a href="#section-1">
+            <img src={logo} className="App-logo" alt="logo" />
+          </a>
           <input
             onChange={handleToggle}
             value={toggle}
@@ -32,9 +33,6 @@ const navbar = () => {
 
         <div className={`menu ${toggle ? "mostrar" : ""}`}>
           <ul className="list">
-            <li>
-              <a href="#section-1">Home</a>
-            </li>
             <li>
               <a href="#section-2">Quem Sou</a>
             </li>

@@ -4,8 +4,8 @@ import Tarjeta from "./Tarjeta";
 const Portifolio = ({ data }) => {
   return (
     <section id="section-4">
-      <Tarjeta titulo="Portifolio" />
-      <div className="portifolio">
+      <Tarjeta titulo="Portfólio" />
+      <div className="portfolio">
         {data.map((item) => {
           const { id, name, image } = item;
           return (
