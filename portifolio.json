@@ -2,38 +2,38 @@
   {
     "id": "2",
     "name": "",
-    "image": "./assets/img2.jpeg"
+    "image": "./src/img/img2.jpeg"
   },
 
   {
     "id": "3",
     "name": "",
-    "image": "./assets/img/img3.jpeg"
+    "image": "./src/img/img3.jpeg"
   },
   {
     "id": "4",
     "name": "",
-    "image": "./assets/img4.jpeg"
+    "image": "./src/img/img4.jpeg"
   },
   {
     "id": "5",
     "name": "",
-    "image": "./assets/img5.jpeg"
+    "image": "./src/img/img5.jpeg"
   },
   {
     "id": "6",
     "name": "",
-    "image": "./assets/img6.jpeg"
+    "image": "./src/img/img6.jpeg"
   },
   {
     "id": "7",
     "name": "",
-    "image": "./assets/img7.jpeg"
+    "image": "./src/img/img7.jpeg"
   },
   {
     "id": "8",
     "name": "",
-    "image": "./assets/img8.jpeg"
+    "image": "./src/img/img8.jpeg"
   },
   {
     "id": "9",
