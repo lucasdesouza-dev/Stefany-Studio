@@ -2,13 +2,13 @@
   {
     "id": "2",
     "name": "",
-    "image": "./src/img/img2.jpeg"
+    "image": "https://raw.githubusercontent.com/lucashenriquesouza/Stefany-Studio/master/src/img/img2.jpeg"
   },
 
   {
     "id": "3",
     "name": "",
-    "image": "./src/img/img3.jpeg"
+    "image": "https://raw.githubusercontent.com/lucashenriquesouza/Stefany-Studio/master/src/img/img3.jpeg"
   },
   {
     "id": "4",

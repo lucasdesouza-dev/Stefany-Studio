@@ -104,16 +104,14 @@ function App() {
   // ]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/portifolio.json", {
-      headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json",
-      },
-    })
+    fetch(
+      "https://raw.githubusercontent.com/lucashenriquesouza/Stefany-Studio/master/public/portifolio.json",
+      {}
+    )
       .then((response) => response.json())
       .then(setData);
   }, []);
-
+  console.log(data);
   return (
     <div className="App">
       <NavBar />
