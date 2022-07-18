@@ -7,7 +7,7 @@
   /* linear-gradient(
       rgb(255, 255, 255),
       rgba(211, 211, 211, 0.7)
-    ), */ url("../img/studio.jpg");
+    ), */ url("../img/studio.jpeg");
   background-blend-mode: darken;
   background-repeat: no-repeat;
   background-size: cover;

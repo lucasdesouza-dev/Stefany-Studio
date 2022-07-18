@@ -1,13 +1,15 @@
 .container-tarjeta {
   width: 100%;
   min-height: 10vh;
+  /* background-color: rgb(216, 182, 182); */
 
   display: flex;
   justify-content: center;
   align-items: center;
   /* box-shadow: 0px 5px 15px black; */
-  box-shadow: inset 5em 1em 1em gold;
+  /* box-shadow: inset 5em 1em 1.5em #e27396; */
 }
 .container-tarjeta h1 {
   text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 3em;
 }

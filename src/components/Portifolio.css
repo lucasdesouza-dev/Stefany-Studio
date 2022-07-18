@@ -3,7 +3,12 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  background-color: rgba(67, 87, 77, 1);
 }
 .image {
   margin: 0.5em;
+}
+
+.image img {
+  border-radius: 25px;
 }

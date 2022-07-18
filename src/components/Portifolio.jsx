@@ -15,8 +15,8 @@ const Portifolio = ({ data }) => {
                   src={image}
                   alt="name"
                   loading="lazy"
-                  width="700"
-                  height="700"
+                  width="400"
+                  height="400"
                 />
               </div>
               <div className="info">

@@ -14,9 +14,16 @@
   border: solid 1px gold;
   border-radius: 25px;
   margin-left: 1em;
-  background-image: linear-gradient(100deg, #fff 0%, rgb(255, 205, 217) 130%);
+  /* background-image: linear-gradient(100deg, #fff 0%, rgb(255, 205, 217) 130%); */
+  background-image: linear-gradient(30deg, #fff 0%, rgb(216, 182, 182) 100%);
 }
 .sobre p {
   margin: 1em;
   text-indent: 3em;
+}
+
+@media screen and (max-width: 600px) {
+  .perfil {
+    flex-direction: column;
+  }
 }

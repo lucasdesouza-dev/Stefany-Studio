@@ -9,6 +9,7 @@ import Agendamento from "./components/Agendamento";
 
 import Especialidades from "./components/Especialidades";
 import Portifolio from "./components/Portifolio";
+import Mapa from "./components/Mapa";
 
 function App() {
   const [data, setData] = useState([]);
@@ -121,6 +122,7 @@ function App() {
       {/* <Agendamento /> */}
       <Especialidades />
       <Portifolio data={data} />
+      <Mapa />
       <Footer />
     </div>
   );
