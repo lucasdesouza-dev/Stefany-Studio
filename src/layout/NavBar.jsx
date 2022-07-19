@@ -1,7 +1,7 @@
 import "./NavBar.css";
 
 import { BsList } from "react-icons/bs";
-import logo from "../img/logo.svg";
+import logo from "../img/logo.png";
 import { useState } from "react";
 
 const navbar = () => {

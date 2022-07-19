@@ -1,12 +1,19 @@
-.portfolio {
+.container-portfolio {
+  width: 100%;
+  background-color: #d6aeb1;
+  display: flex;
+  justify-content: center;
+}
+
+.portifolio {
+  width: 75%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(67, 87, 77, 1);
+  justify-content: space-between;
 }
 .image {
-  margin: 0.5em;
+  margin: 1em 1em;
+  width: 70%;
 }
 
 .image img {
