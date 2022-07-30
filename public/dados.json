@@ -90,18 +90,30 @@
   ],
   "especialidades": [
     {
-      "titulo": "Design de Sobrancelhas",
-      "subTitulo": "As sobrancelhas e seu papel na expressão do olhar",
-      "descricao": "O design de sobrancelha é feito para alinhar os fios, tendo base nas técnicas de visagismo, onde é avaliado as características do formato do rosto, simetria, é feito medidas precisas da face, onde se chega ao modelo ideal para cada tipo de rosto.",
+      "titulo": "Design de sobrancelhas",
+      "subTitulo": "Quais os beneficios e cuidados de um design de sobrancelhas ",
+      "descricao": "O design de sobrancelha e um procedimento que realça seu olhar, modelando a sobrancelha de acordo com cada rosto e eliminando os pelinhos indesejados. Desde o início até o fim do procedimento usa-se produtos específicos para o cuidado do pelo e pele do local, finalizando se desejado com algum pigmento, e os cuidados são simples, como higiene, esfoliação e hidratação.",
 
       "id": 1
     },
     {
-      "titulo": "Design de Sobrancelhas",
-      "subTitulo": "As sobrancelhas e seu papel na expressão do olhar",
-      "descricao": "O design de sobrancelha é feito para alinhar os fios, tendo base nas técnicas de visagismo, onde é avaliado as características do formato do rosto, simetria, é feito medidas precisas da face, onde se chega ao modelo ideal para cada tipo de rosto.",
+      "titulo": "Depilação com cera",
+      "subTitulo": "Quais os benefício e cuidados de uma depilação com cera",
+      "descricao": "A depilação com cera e um procedimento que retira os pelos de determinada região pela raiz, e um procedimento que não machuca sua pele pelo contrário, a depilação na cera ela evita vários problemas de pele causados por lâminas, como pelo encravados, alergias e desconfortos. E o pelo sendo retirado pela raiz trás consigo outro benéfico que é a diminuição no crescimento e na espessura dos fios, fazendo com que tenhamos menos pelo na região para nós encomodar.Os cuidados são simples, como higiene, esfoliação e hidratação.",
 
       "id": 2
     }
-  ]
+  ],
+  "sobre": {
+    "nome": "Stefany Resende",
+    "titulo": "Minha história teve início quando eu tinha apenas 15 anos, mas até então eu não imaginava que iria se tornar realidade. Desde mais nova minha mãe sempre fazia minhas sobrancelhas e da minha irmã, porque ela também tinha gosto pra isso, e com essa experiência dela eu comecei a me interessar em tirar pelinhos e passei a fazer a sobrancelha de outras amigas e a minha mesma sem nenhum curso, 
+                ate então não sonhava que iria crescer um amor tão grande por essa profissão.
+                Com o passar do tempo trabalhei por 4 anos no setor administrativo em uma determinada empresa na minha cidade, porém após esse tempo sai e vi que aquilo ali não era mais pra mim.
+                Então resolvi me especializar na área, procurei uma profissional qualificada que iria me ajudar a iniciar minha carreira, corri atrás e consegui fazer meu curso em 2019 de Designer de Sobrancelhas.
+                Comecei a atender em casa por algum tempo e sim o começo não é fácil, desanimei por um tempo parei, até me reerguer e ver que essa profissão era o que eu amava fazer, entendi que nenhuma outra me traria a felicidade que ela me traz, o amor de ficar ali um dia todo trabalhando é imenso, cada rostinho novo e uma experiência diferente, que cada vez mais me liga a essa profissão. 
+                Comecei atender oficialmente no dia 19/03/2021 trabalhando somente com design de sobrancelhas, até que me encontrei em mais uma especialidade que me apaixonei que foi a Depilação com cera, fiz o curso em 2021 e logo após já comecei atender.
+                Hoje atendo as duas modalidades no meu Studio, tanto Design de Sobrancelhas sendo ( design estratégico, reconstrução e design com Henna), quanto Depilação Feminina com cera em todas áreas do corpo.
+                Meus atendimentos são totalmente personalizados para cada cliente, entendo o que cada uma busca e ofereço meu melhor, aumentando cada dia mais a auto-estima de cada uma.
+                Enfim, no início de tudo não imaginava tudo isso, todas conquistas, todo esse retorno em forma de carinho que recebi das minhas clientes mas, hoje vejo que vai muito mais além de só tirar pelinhos."
+  }
 }
