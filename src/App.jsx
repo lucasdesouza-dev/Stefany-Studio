@@ -16,7 +16,7 @@ function App() {
 
   useEffect(() => {
     fetch(
-      "https://raw.githubusercontent.com/lucashenriquesouza/Stefany-Studio/master/public/dados.json"
+      "https://github.com/lucasdesouza-dev/Stefany-Studio/blob/master/public/dados.json"
     )
       .then((response) => response.json())
       .then((res) => {
