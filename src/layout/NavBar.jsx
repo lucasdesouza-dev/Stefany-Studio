@@ -42,8 +42,13 @@ const navbar = () => {
             <li>
               <a href="#section-4">Portfólio</a>
             </li>
+            <li>
+              <a href="#section-5">Cursos</a>
+            </li>
             <li className="link-agendamento">
-              <a href="https://wa.me/5534992340962">Agende seu Horario</a>
+              <a href="https://wa.me/message/O2TJMR6VILACH1">
+                Agende seu Horario
+              </a>
             </li>
           </ul>
         </div>
