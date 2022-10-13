@@ -11,6 +11,9 @@
 
   background-color: #fff;
 }
+.logo-toggle {
+  margin-right: 2em;
+}
 .navbar img {
   height: 9vmin;
   margin-left: 3em;
@@ -29,6 +32,7 @@
   justify-content: center;
   gap: 25px;
   padding: 0;
+  font-family: "Pacifico", cursive;
 }
 
 #toggle,
